@@ -1,7 +1,5 @@
-- 👋 Oi, eu sou @CaioFelipedeSP
-- 👀 Estou Interessado em Engenharia
-- 🌱 Atualmente aprendendo...
-- 💞️ Atualmente colaborando em...
-- 📫 How to reach me [Email de Contato](caio.pissaia@escola.pr.gov.br)
+oi, eu sou @caiof.pis
+estou interessado no ITA
+atualmente aprendendo a como aprender.
 
 
