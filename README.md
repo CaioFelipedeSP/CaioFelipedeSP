@@ -1,5 +1,5 @@
 oi, eu sou @caiof.pis,
-estou interessado no ITA,
+estou interessado em programação,
 atualmente aprendendo a como aprender.
 
 
